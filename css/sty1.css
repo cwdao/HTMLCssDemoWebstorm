@@ -33,6 +33,9 @@ blockquote{
   font-size: medium;
   line-height: normal;
 }
+button{
+  border-radius: 20px;
+}
 .important {
   font-weight: bolder;
 }
